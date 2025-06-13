@@ -6,6 +6,8 @@
 
 > Matplotlib is a comprehensive plotting library for Python that allows you to create static, animated, and interactive visualizations. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits, and also offers a procedural "pyplot" interface that mimics MATLAB's plotting style. It's widely used for creating a vast range of charts, graphs, and figures, from simple line plots and scatter plots to complex 3D visualizations, histograms, heatmaps, and more, making it a foundational tool for data visualization in the Python ecosystem.
 
+![Screenshot 2025-06-13 160613](https://github.com/user-attachments/assets/297aa4cd-ed1e-4858-a0dd-9e7e67e6a814)
+
 
 ## 1. Importing Matplotlib and Dependencies
 
